@@ -1,0 +1,32 @@
+_repo: Three-Thousand-Dollars_32795
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32795-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Green, Anna Katharine
+    aliases:
+    - Rohlfs, Mrs. Charles
+    - Rohlfs, Anna Katharine Green
+    birthdate: 1846
+    deathdate: 1935
+    gutenberg_agent_id: '541'
+    url: http://www.gutenberg.org/2009/agents/541
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
+description: ''
+gutenberg_issued: '2010-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Robbery -- Fiction'
+title: Three Thousand Dollars
+url: http://www.gutenberg.org/ebooks/32795
